@@ -11,7 +11,7 @@ return {
       })
     end,
   },
-	{
+  {
     'nvim-orgmode/org-bullets.nvim',
     ft = 'org',               -- lazy-load for org files
     config = function()
